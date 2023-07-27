@@ -30,4 +30,6 @@ wss.on("connection", (socket) => {
 });
 
 server.listen(3000, handleListen);
+
+
 //backend 부분
